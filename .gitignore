@@ -1,2 +1,3 @@
 .ipynb_checkpoints 
 .gitignore
+/training_model/face_dataset/
